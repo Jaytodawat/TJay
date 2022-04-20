@@ -1,1 +1,5 @@
-# TJay
+-TJay
+- Hii, this is Jayndra
+- I am owner of this repo
+- You can create ur 1st  pull request by adding ur name in this file
+- Jay
